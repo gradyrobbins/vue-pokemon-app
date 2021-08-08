@@ -2,7 +2,7 @@
 # Create A Pokémon app For Beginners
 
 video tutorial[1]:<br>
-repo[2]:
+repo[2]: (https://github.com/ErikCH/PokemonVue.git)
 <br>
 screengrab: ![./screengrab.png]
 
