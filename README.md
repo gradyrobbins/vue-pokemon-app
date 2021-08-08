@@ -1,14 +1,14 @@
 # Learn Vue.js 3.0 With Tailwind CSS And Composition API in 2021 -
 # Create A Pokémon app For Beginners
+## Credit: Erik Hanchett
+1. [video tutorial ](https://www.youtube.com/channel/UCshZ3rdoCLjDYuTR_RBubzw)
 
-video tutorial[1]:<br>
-repo[2]:
-<br>
-screengrab: ![./screengrab.png]
+2. [repo ](https://github.com/ErikCH/PokemonVue.git)
+
+3. Screengrab <br>![screengrab](./screengrab.png  "Create A Pokémon app For Beginners")
 
 
-[1]: https://www.youtube.com/channel/UCshZ3rdoCLjDYuTR_RBubzw
-[2]: https://github.com/ErikCH/PokemonVue.git
+
 ## Project setup
 ```
 npm install
