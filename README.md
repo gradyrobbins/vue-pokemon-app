@@ -4,7 +4,8 @@
 
 2. [repo ](https://github.com/ErikCH/PokemonVue.git)
 
-3. Screengrab <br>![screengrab](./screengrab.png  "Create A Pokémon app For Beginners")
+###### Screengrab <br>
+![screengrab](./screengrab.png  "Create A Pokémon app For Beginners")
 
 
 
